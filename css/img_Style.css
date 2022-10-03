@@ -1,0 +1,10 @@
+#imgBox{
+    height: 60%;
+    width: 100%;
+}
+
+#imgBox img{
+    width: 100%;
+    height: 100%;
+    object-fit:cover;
+}

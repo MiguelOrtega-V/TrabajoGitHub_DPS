@@ -1,0 +1,29 @@
+/* Estilo de la barra superior (menú) */
+
+#upMenuBar{
+    background-color: rgb(75, 75, 75);
+}
+
+#upMenuBar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#upMenuBar li{
+    display: inline;
+}
+
+#upMenuBar li a{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    width: 100px;
+    font-weight: bold;
+}
+
+#upMenuBar li a:hover{
+    background-color: rgb(23, 24, 31);
+}
